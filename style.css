@@ -1,0 +1,15 @@
+header {
+    font-size: 1rem;
+    background-color: blueviolet;
+    padding: 1em 2em;
+}
+
+footer {
+    font-size: .5rem;
+    padding: 1em 2em;
+    position: fixed;
+    bottom: 0;
+    background-color: aqua;
+    display: block;
+    width: 100%;
+}
